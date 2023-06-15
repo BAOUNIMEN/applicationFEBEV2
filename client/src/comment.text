@@ -1,0 +1,89 @@
+ <div className="slider">
+        <div className="slides">
+          <input type="radio" name="radio-btn" id="radio1" />
+          <input type="radio" name="radio-btn" id="radio2" />
+          <input type="radio" name="radio-btn" id="radio3" />
+          <input type="radio" name="radio-btn" id="radio4" />
+          <div className="slide-first">
+            <img src="https://cdn2.tendance-parfums.com/media/resized/948/444/contentmanager/content/dbm_slider/coffret-armani-si.jpg" />
+          </div>
+          <div className="slide1">
+            <img src="https://cdn2.tendance-parfums.com/media/resized/948/444/contentmanager/content/dbm_slider/libre-yves-saint-laurent_3.jpg" />
+          </div>
+          <div className="slide2">
+            <img src="https://img.gcimagazine.com/files/base/allured/all/image/2020/12/gci.850x425-Top-Searched-Fragrances.png?auto=format%2Ccompress&q=70&w=700" />
+          </div>
+          <div className="slide3">
+            <img src="https://cdn.ceoworld.biz/wp-content/uploads/2022/12/The-Ultimate-Top-10-Most-Expensive-Perfumes-In-The-World.jpg" />
+          </div>
+          <div className="nav-auto">
+            <div className="auto-btn1"></div>
+            <div className="auto-btn2"></div>
+            <div className="auto-btn3"></div>
+            <div className="auto-btn4"></div>
+          </div>
+          <div className="nav-manual">
+            <label for="radio1" className="manual-btn"></label>
+            <label for="radio2" className="manual-btn"></label>
+            <label for="radio3" className="manual-btn"></label>
+            <label for="radio4" className="manual-btn"></label>
+          </div>
+        </div>
+      </div>
+
+      *********************************************************************
+       <div>
+        <div className="header">
+          <input type="checkbox" name="" id="chk1" />
+          <div className="logo">
+            {" "}
+            <h1>Armali</h1>{" "}
+          </div>
+          <div className="search-box">
+            <form action="">
+              <input type="text" name="search" placeholder="search" />
+            </form>
+          </div>
+
+          <ul>
+            <li>
+              <a href="#">Home</a>
+            </li>
+            <li>
+              <a href="#">Perfum</a>
+            </li>
+            <li>
+              <a href="#">Brand</a>
+            </li>
+            <li>
+              <a href="#">Contact</a>
+            </li>
+            <li>
+              <a href="#">SignIn</a>
+            </li>
+            <li>
+              <a href="#">SignUp</a>
+            </li>
+          </ul>
+        </div>
+
+        <div className="main">
+          <div className="prag">
+            <p>
+              The term perfume comes from the Latin “per fumum” which means
+              “through the smoke”. It comes from the use of oils and aromas,
+              such as incense. The perfume was burned as an offering to the
+              deceased and to the deities. Even today, the fragrance permeates
+              meditation and prayer in many religious cults.
+            </p>
+            <p>
+              The perfume was then used for profane purposes, to be in harmony
+              with oneself, to procure pleasure, to give confidence or to
+              seduce. It speaks for itself, it is the result of a unique alchemy
+              between its skin and its perfume. I like to say that it is not the
+              perfume that perfumes the person, but the person who perfumes his
+              perfume.
+            </p>
+          </div>
+        </div>
+      </div>

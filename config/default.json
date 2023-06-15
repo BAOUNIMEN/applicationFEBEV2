@@ -1,0 +1,4 @@
+{
+    "db": "mongodb+srv://emiarma871:arma92@cluster0.s3yojlc.mongodb.net/APP_test?retryWrites=true&w=majority",
+    "secret": "armali"
+}

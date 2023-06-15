@@ -1,0 +1,61 @@
+.header .entet1{
+    width: 110VW;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin: -75px; */
+    z-index: 99;
+    /* box-shadow: 0 0 10px hwb(8deg 46.15% 49.02% / 95%); */
+    background:hwb(8deg 73.58% 4.72% / 0%);
+}
+.header .login{
+    color:#f2eeee;
+    margin-left:-159px;;
+    text-transform: uppercase;
+}
+.header .login h1{
+    font-weight: 400;
+    font-family: pops;
+    color: #565151;
+    font-size: 50px;
+    line-height: 38px; 
+}
+.header .login p{
+    font-family: pops;
+    font-weight: 400;
+    color: #565151;
+    font-size: 18.40px;
+    line-height: 18px;
+}
+.icon{
+    scale: 1.7;
+}   
+.icons {
+    color: #565151;
+    /* margin: 20px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    WIDTH: 120px;
+    height: 100%;
+}
+.search-box{
+    display: flex;
+    margin: 9px 1px 29px -192px
+}
+.search-box i{
+    position: absolute;
+    margin: 30px 19px 2px 265px;
+}
+.search-box input{
+    width: 286px;
+    margin: 12PX;
+    height: 49px;
+    border: 2px solid  #565151;;
+    border-radius: 33px;
+}
+
+
+
+

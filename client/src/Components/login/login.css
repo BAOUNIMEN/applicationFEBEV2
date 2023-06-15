@@ -1,0 +1,215 @@
+
+
+
+.container{
+    position: relative;
+
+}
+.form{
+    background: rgba(255, 255, 255, .3);
+    /* color: #CE6A6B */
+    /* #EBACA2 */
+    ;
+    padding: 6rem;
+    margin: 51px 280px -690px 388px;
+    height: -14px;
+    width: 424px;
+    border-radius: 20px;
+    border-left: -234px solid rgb(255, 255, 255, .3);
+    border-top: 1px solid rgb(255, 255, 255, .3);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(10px);
+    -moz-backdrop-filter: blur(10px);
+    box-shadow: 20px 20px 40px -6 rgba(52, 52, 52, 0.4);
+    text-align: center;
+}
+.form2{
+    background: rgba(255, 255, 255, .3);
+    padding: 12rem;
+    height: 48px;
+    width: 480px;
+    margin: 88px 208px 115px 409px;
+    border-radius: 20px;
+    border-left: 1px solid rgba(243, 164, 164, 0.201);
+    border-top: 1px solid rgb(255, 255, 255, .3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    -moz-backdrop-filter: blur(10px);
+    box-shadow: 20px 20px 40px -6 rgba(100, 99, 99, 0.3);
+    text-align: center;
+}
+.form  p{
+    color: rgb(44, 44, 44);
+    font-weight: 400;
+    opacity: .7;
+    WIDTH: 378px;
+    margin: -79px;
+    font-size: 1.8rem;
+    margin-bottom: 4px;
+    margin-top: -156px;
+    padding: 127px 11px 9px 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
+
+}
+.form2  p{
+    color: rgb(56, 54, 54);
+    font-weight: 400;
+    width: 192px;
+    opacity: .7;
+    font-size: 1.8rem;
+    margin-bottom: -40px;
+    margin-top: -232px;
+    padding: 88px 68px 73px 14px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
+
+}
+ .form  input{
+    background: transparent;
+    border: none;
+    border-left: 1px solid rgba(255, 255, 255, .3);
+    border-top: 1px solid rgba(255, 255, 255, .3);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    -moz-backdrop-filter: blur(5px);
+    padding: 0.5rem;
+    width: 266px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 60px rgba(0, 0, 0, .2);
+    color: rgb(85, 83, 83);
+    font-weight: 500;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
+    transition: all .3s;
+    margin-bottom: 0.8em;
+
+}
+.form2  input{
+    background: transparent;
+    border: none;
+    border-left: 1px solid rgba(255, 255, 255, .3);
+    border-top: 1px solid rgba(255, 255, 255, .3);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    -moz-backdrop-filter: blur(5px);
+    padding: 0.65rem;
+    width: 315px;
+    margin: 10px 69px 17px -115px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 60px rgba(0, 0, 0, .2);
+    color: rgb(57, 55, 55);
+    font-weight: 500;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
+    transition: all .3s;
+    /* margin-bottom: -0.20000000000000284em;
+
+}
+::placeholder{
+    color: rgb(12, 12, 12);
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, .2); */
+
+}
+.form > input:hover,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus{
+    background-color: rgba(255, 255, 255, .6);
+    box-shadow: 4px 4px 60px 8px rgba(0, 0, 0, .2);
+}
+.form2 > input:hover,
+
+input[type="email"]:focus,
+input[type="password"]:focus{
+    background-color: rgba(255, 255, 255, .6);
+    box-shadow: 4px 4px 60px 8px rgba(0, 0, 0, .2);
+}
+ .form > input[type="submit"]{
+    cursor:pointer;
+    margin-top: 10px;
+    font-size: 1rem;
+    width: 150px;
+   
+}
+.drop{
+    background: rgba(255, 255, 255, .3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    -moz-backdrop-filter: blur(10px);
+    position: absolute;
+    border-left: 1px solid rgb(255, 255, 255, .3);
+    border-top: 1px solid rgb(255, 255, 255, .3);
+    border-radius: 10px;
+    box-shadow: 10px 10px 60px -8px rgba(0, 0, 0, .2);
+
+}
+
+.drop-1{
+    height: 80px;
+    width: 80px;
+    top: 269px;
+    left: 298px;
+    /* z-index: -1; */
+
+}
+
+.drop-2{
+    height: 80px;
+    width: 80px;
+    bottom: 251px;
+    right: 96px;
+    right: 353px;
+}
+.drop-3{
+    height: 130px;
+    width: 128px;
+    bottom: -24px;
+    right: 857px;
+}
+.drop-4{
+    height: 120px;
+    width: 120px;
+    top: -60px;
+    right: 440px;
+}
+.drop-5{
+    height: 116px;
+    width: 151px;
+    bottom: 236px;
+    left: 471px;
+    left: 566px;
+    z-index: -1;
+}
+.drop-6{
+    height: 122px;
+    width: 125px;
+    bottom: -59px;
+    right: 842px;
+    z-index: -1;
+}
+.drop-7 {
+    height: 122px;
+    width: 125px;
+    bottom: 197px;
+    right: 880px;
+    z-index: -1;
+}
+
+.drop-8 {
+    height: 80px;
+    width: 80px;
+    top: -44px;
+    left: 365px;
+}
+.drop-9 {
+    height: 80px;
+    width: 80px;
+    bottom: -18px;
+    right: 96px;
+    right: 447px;
+    z-index: -1;
+}
+.drop-10 {
+    height: 122px;
+    width: 125px;
+    bottom: 323px;
+    right: 430px;
+    z-index: -1;
+}

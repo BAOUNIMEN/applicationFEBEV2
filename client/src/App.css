@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  /* background: linear-gradient(45deg, #8bf1b5eb, hsl(336, 82%, 52%)); */
+  background-image: url(https://img.freepik.com/free-photo/fabric-texture-background-peach-blog-banner_53876-119883.jpg?w=740&t=st=1686161533~exp=1686162133~hmac=cef90b75432f929b92119d24766bbaa4d4943b57e28314b0d45dde303e2850cf);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  font-family: arial, sans-serif;
+  margin: 70px;
+}
+
+.App {
+  text-align: center;
+  width: 100vw;
+  
+}
